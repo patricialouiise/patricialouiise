@@ -5,7 +5,6 @@
 ## About Me
 I'm a full-stack developer and tech enthusiast who loves to learn and create.
 
-- 🌱 I’m currently learning **Go** and **Kubernetes**
 - 💬 Ask me about **React**, **Node.js**, or **Typescript**
 - 📫 Reach me at: [ramospatricialouise@gmail.com](mailto:ramospatricialouise@gmail.com)
 
